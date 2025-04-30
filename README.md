@@ -3,3 +3,5 @@
 
 ## Features
 * Threads work as if they are virtual coin mining machines.
+
+### Functions
