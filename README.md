@@ -2,4 +2,6 @@
 **ThreadCoin** is a shell that creates virtual coins with multiple threads.
 
 ## Features
-* Threads working like virtual coin mining machines
+* Threads work as if they are virtual coin mining machines.
+
+### Functions
